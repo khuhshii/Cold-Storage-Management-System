@@ -1,2 +1,15 @@
 # Cold-Storage-Management-System
 Front-end: HTML,CSS ; Back-end: Python(Flask framework) ; and phpMyAdmin is used in the completion of this project.
+![Home](https://user-images.githubusercontent.com/116865740/217767603-a950685b-9c5a-433a-968c-40fa86abf81b.png)
+![about](https://user-images.githubusercontent.com/116865740/217767674-0f2d5f7b-e088-49b7-a5ef-7f1281171226.png)
+![booking](https://user-images.githubusercontent.com/116865740/217767728-a294e276-e2e2-4d1f-9502-3c06babb2b39.png)
+![storages](https://user-images.githubusercontent.com/116865740/217767859-e24c1703-ac1c-4a40-82bc-d53fdb28c6ee.png)
+![details](https://user-images.githubusercontent.com/116865740/217767911-778649f1-f61a-48f8-942b-bd1d587b4063.png)
+![admin](https://user-images.githubusercontent.com/116865740/217767947-8984aa11-761d-45f3-b4c7-48d3fd37fe38.png)
+![asection](https://user-images.githubusercontent.com/116865740/217767976-493c94a8-168b-4554-ba3e-8dbdedd9a9eb.png)
+![bdetails](https://user-images.githubusercontent.com/116865740/217768001-fcf0d048-f503-45b1-9426-d2f9c51a9d30.png)
+![reviews](https://user-images.githubusercontent.com/116865740/217768108-3b9e085a-81f1-4186-af75-5cc7ab369e2f.png)
+![user](https://user-images.githubusercontent.com/116865740/217768142-0c8d6804-950a-4d58-a505-117963a6aa16.png)
+![usection](https://user-images.githubusercontent.com/116865740/217768158-6c1cb33d-8760-4efa-b916-b7d026801ea9.png)
+![contact](https://user-images.githubusercontent.com/116865740/217768198-b97bdea0-c920-4f06-adf5-9962fea78f6a.png)
+![our_team](https://user-images.githubusercontent.com/116865740/217768221-abe0057e-e319-4844-a97b-135474633125.png)
